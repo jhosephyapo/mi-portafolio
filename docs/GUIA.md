@@ -4,6 +4,21 @@
 **Alumno:** Jhoseph Brandon Yapo Bravo · **Grupo:** A  
 **Entrega:** 21/10/2026 · **Docente:** Jeisson Daniel Paredes Cano
 
+## Objetivos
+
+- Diferenciar *fork* y *clone*.
+- Reportar y corregir errores mediante *Issues*, ramas y *Pull Requests*.
+- Sincronizar el *fork* y la copia local.
+
+## Conceptos clave
+
+| Término | Resumen |
+|---|---|
+| Fork | Copia un repositorio a tu cuenta de GitHub. |
+| Clone | Descarga el repositorio a tu computadora (`git clone`). |
+| Issue | Reporta un problema en el repositorio original. |
+| Pull Request | Propone cambios para revisión e integración. |
+| origin | Remoto que apunta a tu *fork*. |
 
 ## Parte guiada: corregir el total del carrito
 
@@ -48,3 +63,6 @@ Completar por cuenta propia el ciclo: crear un *Issue*, partir desde `main`, cre
 - **Issues:** [#389](https://github.com/jeisson-tecsup/tienda-tecsup/issues/389), [#393](https://github.com/jeisson-tecsup/tienda-tecsup/issues/393)
 - **Pull Requests:** [#390](https://github.com/jeisson-tecsup/tienda-tecsup/pull/390), [#394](https://github.com/jeisson-tecsup/tienda-tecsup/pull/394)
 - **Repositorio original:** [jeisson-tecsup/tienda-tecsup](https://github.com/jeisson-tecsup/tienda-tecsup)
+
+![Pantalla principal del proyecto](../img/imagen2.png)
+
